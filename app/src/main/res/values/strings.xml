@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title_activity_main">ToDoList</string>
+
+    <string name="action_tecnologias">Tecnologias</string>
+    <string name="action_preferencias">Preferências</string>
+    <string name="action_search">Busca</string>
+    <string name="action_tarefas">Tarefas</string>
+    <string name="action_registro">Registre-se</string>
+    <string name="action_login">Login</string>
+    <string name="action_user">Usuário logado</string>
+    <string name="action_meusdados">Meus dados</string>
+    <string name="action_sair">Sair</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_cancelar">Cancelar</string>
+    <string name="button_delete">Remover</string>
+    <string name="button_yes">Sim</string>
+    <string name="button_no">Não</string>
+
+    <!--tecnologias-->
+    <string name="tecnologia_title">Tecnologias</string>
+    <string name="tecnologia_nome">Nome</string>
+    <string name="tecnologia_tipo">Tipo</string>
+
+    <!--login-->
+    <string name="login_title">Login</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_senha">Senha</string>
+
+    <!--usuarios-->
+    <string name="usuario_title_registro">Registar usuário</string>
+    <string name="usuario_title_meusdados">Meus dados</string>
+    <string name="usuario_nome">Nome</string>
+    <string name="usuario_email">E-mail</string>
+    <string name="usuario_senha">Senha</string>
+
+    <!--preferencias-->
+    <string name="preferencias_title">Preferências</string>
+    <string name="preferencias_tipo">Tipo filtro</string>
+    <string name="preferencias_done">Concluído?</string>
+
+    <!--tarefas-->
+    <string name="tarefa_title">Tarefas</string>
+    <string name="tarefa_novo_title">Nova tarefa</string>
+    <string name="tarefa_editar_title">Editar tarefa</string>
+    <string name="tarefa_data">Data</string>
+    <string name="tarefa_nome">Nome</string>
+    <string name="tarefa_descricao">Descrição</string>
+    <string name="tarefa_done">Concluída?</string>
+
+    <!--search-->
+    <string name="search_title">Busca</string>
+    <string name="search_text">Digite o nome da tarefa</string>
+
+</resources>

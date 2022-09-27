@@ -1,0 +1,51 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:compat="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        compat:showAsAction="ifRoom|collapseActionView"
+        compat:actionViewClass="android.widget.SearchView"
+        android:title="@string/action_search"/>
+
+    <item
+        android:id="@+id/action_preferencias"
+        android:icon="@drawable/ic_baseline_construction_24"
+        compat:showAsAction="always"
+        android:title="@string/action_preferencias"/>
+
+    <item
+        android:id="@+id/action_registro"
+        android:icon="@drawable/ic_baseline_how_to_reg_24"
+        compat:showAsAction="always"
+        android:title="@string/action_registro"/>
+
+    <item
+        android:id="@+id/action_login"
+        android:icon="@drawable/ic_baseline_login_24"
+        compat:showAsAction="always"
+        android:title="@string/action_login"/>
+
+    <item
+        android:id="@+id/action_user"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        compat:showAsAction="always"
+        android:title="@string/action_user">
+
+        <menu>
+            <item
+                android:id="@+id/action_meusdados"
+                android:title="@string/action_meusdados"/>
+
+            <item
+                android:id="@+id/action_sair"
+                android:title="@string/action_sair"/>
+        </menu>
+
+    </item>
+
+<!--    <item-->
+<!--        android:id="@+id/action_tecnologias"-->
+<!--        android:title="@string/action_tecnologias"/>-->
+
+</menu>
