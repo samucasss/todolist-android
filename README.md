@@ -1,5 +1,5 @@
 # todolist-android
-Implementação backend da aplicação ToDoList com Android Kotlin.
+Implementação backend da aplicação ToDoList com Android Kotlin. Tecnologias utilizadas: Kotlin, Android, REST com Retrofit e JWT Authentication
 
 
 Aplicação ToDoList:
